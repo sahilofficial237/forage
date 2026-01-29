@@ -1,0 +1,6 @@
+task 1: 
+all is done using vs code 
+1. created virtual environment (python -m venv venv)
+2. activated ( venv\scripts\activate)
+3. installed libraries - panda & dash (pip install panda , pip install dash)
+4. also installed dependancies (pip install dash[testing])
